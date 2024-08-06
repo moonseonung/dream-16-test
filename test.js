@@ -1,1 +1,2 @@
-console.log("andjci");
+console.log("wold");
+console.log("아녕하세요");
